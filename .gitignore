@@ -44,3 +44,6 @@ ckpt/*
 
 #pytest cache
 .cache/
+
+#Jupyter notebook checkpoints
+.ipynb_checkpoints/
