@@ -13,7 +13,7 @@ def rename_images(path):
 	    os.rename(collection + "/" + filename, collection + "/" + str(i) + ".jpg")
 
 
-path_to_images = "./images"
+path_to_images = "./VOCtrainval_11-May-2012/VOCdevkit/VOC2012/JPEGImages"
 
 rename_images(path_to_images)
 
