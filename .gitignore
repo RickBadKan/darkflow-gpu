@@ -48,5 +48,7 @@ ckpt/*
 #Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
-#VOC Dataset
+#VOC Datasets
 VOCtrainval_11-May-2012/
+VOCtrainval_11-May-2012_original.tar
+VOCtrainval_11-May-2012_original/
